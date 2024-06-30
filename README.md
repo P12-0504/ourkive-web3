@@ -1,13 +1,19 @@
-# Sample Hardhat Project
+# Ourkive Web3
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Initial Setup
 
-Try running some of the following tasks:
+1. **Clone the Repository**:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+   ```sh
+   git clone https://github.com/P12-0504/ourkive-web3.git
+   cd <repository-directory>
+   ```
+
+2. **Install Node.js**:
+   Ensure you have Node.js installed on your local machine. You can download and install it from [Node.js official website](https://nodejs.org/).
+
+3. **Install Dependencies**:
+   Run the following command in the terminal to install the necessary dependencies:
+   ```sh
+   npm install
+   ```
