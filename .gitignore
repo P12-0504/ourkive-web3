@@ -1,0 +1,26 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+.DS_Store
+
+# Arweave Keyfile
+arweave_jwk.json
+
+# Other directories
+metadata
+prisma
+scripts
+.openzeppelin
+
+# Other files
+clazzic.json
+prismaClient.ts
+s3Client.ts

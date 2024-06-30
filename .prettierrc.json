@@ -1,0 +1,3 @@
+{
+  "overrides": [{ "files": "*.sol", "options": { "tabWidth": 2 } }]
+}
